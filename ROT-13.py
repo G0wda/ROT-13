@@ -37,8 +37,6 @@ else:
     cipher = rot13(input_message)
     print("Encrypted cipher is: ",cipher)
 
-    decipher  = rot13(cipher)
-    print("Decrypted cipher: ",decipher)
 
 
 
